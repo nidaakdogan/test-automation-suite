@@ -11,13 +11,11 @@ Bu proje, saucedemo.com üzerinde temel e-ticaret kullanıcı akışlarını oto
    ```
    python -m pip install -r requirements.txt
    ```
-
 ## Testleri Çalıştırma
 
 ```
 python -m pytest --html=report.html --self-contained-html
 ```
-
 ## Testler
 - Login testi (başarılı giriş)
 - Negatif login testi (hatalı şifre ile giriş ve hata mesajı kontrolü)
