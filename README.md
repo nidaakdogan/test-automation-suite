@@ -4,13 +4,6 @@
 
 Bu proje, saucedemo.com üzerinde temel e-ticaret kullanıcı akışlarını otomatik test etmek için hazırlanmıştır.
 
-## Kurulum
-
-1. Python 3.9+ kurulu olmalı.
-2. Bağımlılıkları yükleyin:
-   ```
-   python -m pip install -r requirements.txt
-   ```
 ## Testleri Çalıştırma
 
 ```
